@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/juicer-blog-frontend/static/css/main.8e500c85.chunk.css",
-    "main.js": "/juicer-blog-frontend/static/js/main.e8c2420b.chunk.js",
-    "main.js.map": "/juicer-blog-frontend/static/js/main.e8c2420b.chunk.js.map",
-    "runtime-main.js": "/juicer-blog-frontend/static/js/runtime-main.657fbe60.js",
-    "runtime-main.js.map": "/juicer-blog-frontend/static/js/runtime-main.657fbe60.js.map",
-    "static/js/2.ec75e07e.chunk.js": "/juicer-blog-frontend/static/js/2.ec75e07e.chunk.js",
-    "static/js/2.ec75e07e.chunk.js.map": "/juicer-blog-frontend/static/js/2.ec75e07e.chunk.js.map",
-    "static/js/3.6a59afdd.chunk.js": "/juicer-blog-frontend/static/js/3.6a59afdd.chunk.js",
-    "static/js/3.6a59afdd.chunk.js.map": "/juicer-blog-frontend/static/js/3.6a59afdd.chunk.js.map",
+    "main.js": "/juicer-blog-frontend/static/js/main.873a6428.chunk.js",
+    "main.js.map": "/juicer-blog-frontend/static/js/main.873a6428.chunk.js.map",
+    "runtime-main.js": "/juicer-blog-frontend/static/js/runtime-main.56346d4a.js",
+    "runtime-main.js.map": "/juicer-blog-frontend/static/js/runtime-main.56346d4a.js.map",
+    "static/js/2.a197ec36.chunk.js": "/juicer-blog-frontend/static/js/2.a197ec36.chunk.js",
+    "static/js/2.a197ec36.chunk.js.map": "/juicer-blog-frontend/static/js/2.a197ec36.chunk.js.map",
+    "static/js/3.d6e16159.chunk.js": "/juicer-blog-frontend/static/js/3.d6e16159.chunk.js",
+    "static/js/3.d6e16159.chunk.js.map": "/juicer-blog-frontend/static/js/3.d6e16159.chunk.js.map",
     "index.html": "/juicer-blog-frontend/index.html",
     "static/css/main.8e500c85.chunk.css.map": "/juicer-blog-frontend/static/css/main.8e500c85.chunk.css.map",
-    "static/js/2.ec75e07e.chunk.js.LICENSE.txt": "/juicer-blog-frontend/static/js/2.ec75e07e.chunk.js.LICENSE.txt",
+    "static/js/2.a197ec36.chunk.js.LICENSE.txt": "/juicer-blog-frontend/static/js/2.a197ec36.chunk.js.LICENSE.txt",
     "static/media/Adit Bala.535e80d0.png": "/juicer-blog-frontend/static/media/Adit Bala.535e80d0.png",
     "static/media/Ben DiMarco.7f37dab0.png": "/juicer-blog-frontend/static/media/Ben DiMarco.7f37dab0.png",
     "static/media/adit-and-ben.35156e6c.png": "/juicer-blog-frontend/static/media/adit-and-ben.35156e6c.png",
     "static/media/switch-author.e12d3005.svg": "/juicer-blog-frontend/static/media/switch-author.e12d3005.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.657fbe60.js",
-    "static/js/2.ec75e07e.chunk.js",
+    "static/js/runtime-main.56346d4a.js",
+    "static/js/2.a197ec36.chunk.js",
     "static/css/main.8e500c85.chunk.css",
-    "static/js/main.e8c2420b.chunk.js"
+    "static/js/main.873a6428.chunk.js"
   ]
 }
