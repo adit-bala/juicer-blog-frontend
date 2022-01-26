@@ -3,7 +3,12 @@ import "../styles/MainPage.css";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 
 export default function PreviewPost({ article, author }) {
-  // console.log(article.slug);
+  const readingTime = Math.round(
+    (article.body.toString().split(" ").length +
+      article.title.toString().split(" ").length +
+      article.description.toString().split(" ").length) /
+      200
+  );
   return (
     <div className="post-preview">
       <Link
@@ -19,6 +24,7 @@ export default function PreviewPost({ article, author }) {
       </div> */}
         <h6 className="article-author"> {author.name} </h6>
         <h6 className="article-date"> {formatDate(article.publishedAt)} </h6>
+        <h6 className="article-date"> {readingTime} min read</h6>
       </div>
       <h4 className="article-desc"> {article.description} </h4>
     </div>
