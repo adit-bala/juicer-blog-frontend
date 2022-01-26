@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/juicer-blog-frontend/static/css/main.b873ccb0.chunk.css",
-    "main.js": "/juicer-blog-frontend/static/js/main.c03af8df.chunk.js",
-    "main.js.map": "/juicer-blog-frontend/static/js/main.c03af8df.chunk.js.map",
+    "main.css": "/juicer-blog-frontend/static/css/main.9a86cdef.chunk.css",
+    "main.js": "/juicer-blog-frontend/static/js/main.43f8ee91.chunk.js",
+    "main.js.map": "/juicer-blog-frontend/static/js/main.43f8ee91.chunk.js.map",
     "runtime-main.js": "/juicer-blog-frontend/static/js/runtime-main.96a6973a.js",
     "runtime-main.js.map": "/juicer-blog-frontend/static/js/runtime-main.96a6973a.js.map",
-    "static/js/2.6ff3cb79.chunk.js": "/juicer-blog-frontend/static/js/2.6ff3cb79.chunk.js",
-    "static/js/2.6ff3cb79.chunk.js.map": "/juicer-blog-frontend/static/js/2.6ff3cb79.chunk.js.map",
+    "static/js/2.5e187671.chunk.js": "/juicer-blog-frontend/static/js/2.5e187671.chunk.js",
+    "static/js/2.5e187671.chunk.js.map": "/juicer-blog-frontend/static/js/2.5e187671.chunk.js.map",
     "static/js/3.d7787fd5.chunk.js": "/juicer-blog-frontend/static/js/3.d7787fd5.chunk.js",
     "static/js/3.d7787fd5.chunk.js.map": "/juicer-blog-frontend/static/js/3.d7787fd5.chunk.js.map",
     "index.html": "/juicer-blog-frontend/index.html",
-    "static/css/main.b873ccb0.chunk.css.map": "/juicer-blog-frontend/static/css/main.b873ccb0.chunk.css.map",
-    "static/js/2.6ff3cb79.chunk.js.LICENSE.txt": "/juicer-blog-frontend/static/js/2.6ff3cb79.chunk.js.LICENSE.txt",
+    "static/css/main.9a86cdef.chunk.css.map": "/juicer-blog-frontend/static/css/main.9a86cdef.chunk.css.map",
+    "static/js/2.5e187671.chunk.js.LICENSE.txt": "/juicer-blog-frontend/static/js/2.5e187671.chunk.js.LICENSE.txt",
     "static/media/Adit Bala.535e80d0.png": "/juicer-blog-frontend/static/media/Adit Bala.535e80d0.png",
     "static/media/Ben DiMarco.7f37dab0.png": "/juicer-blog-frontend/static/media/Ben DiMarco.7f37dab0.png",
     "static/media/adit-and-ben.35156e6c.png": "/juicer-blog-frontend/static/media/adit-and-ben.35156e6c.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.96a6973a.js",
-    "static/js/2.6ff3cb79.chunk.js",
-    "static/css/main.b873ccb0.chunk.css",
-    "static/js/main.c03af8df.chunk.js"
+    "static/js/2.5e187671.chunk.js",
+    "static/css/main.9a86cdef.chunk.css",
+    "static/js/main.43f8ee91.chunk.js"
   ]
 }
